@@ -10,6 +10,6 @@ The top 5 leagues are:
 Liga Portugal🇵🇹:
 Image sources: https://www.ligaportugal.pt/competition/618/liga-portugal-betclic/round/20242025?tab=stats&stat=players&type=142
 
-Data sources: https://worldfantasysoccer.com/season/20030
+Data sources: [https://worldfantasysoccer.com/season/20030](https://worldfantasysoccer.com/season/20030)
 
 
