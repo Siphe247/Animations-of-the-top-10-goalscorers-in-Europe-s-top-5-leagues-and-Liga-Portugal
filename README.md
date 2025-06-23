@@ -8,7 +8,7 @@ The top 5 leagues are:
 5. Bundesliga🇩🇪
 
 Liga Portugal🇵🇹:
-Image sources: https://www.ligaportugal.pt/competition/618/liga-portugal-betclic/round/20242025?tab=stats&stat=players&type=142/n
+Image sources: 'https://www.ligaportugal.pt/competition/618/liga-portugal-betclic/round/20242025?tab=stats&stat=players&type=142'/n
 Data sources: https://worldfantasysoccer.com/season/20030
 
 
