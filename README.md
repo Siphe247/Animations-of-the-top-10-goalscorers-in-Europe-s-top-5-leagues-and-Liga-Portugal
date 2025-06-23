@@ -1,4 +1,10 @@
-This project combines data using visuals featuring player images, club colours, and badges to bring the Golden Boot race.
+This project aims to display an animation of the top 10 goalscorers in each of Europe's top 5 football leagues and Liga Portugal.
 
-![](https://github.com/Siphe247/Animations-of-top-10-goalscorers-in-the-Premier-League/blob/ff27a5f8ccd38bc5241898e2f8956eea5145b3f2/Premier_League_2024-25_Top_Scorers.gif)
+The top 5 leagues are:
+1. Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+2. La Liga🇪🇸
+3. Ligue 1🇫🇷
+4. Serie A🇮🇹
+5. Bundesliga🇩🇪
+
 
