@@ -7,4 +7,8 @@ The top 5 leagues are:
 4. Serie A🇮🇹
 5. Bundesliga🇩🇪
 
+Liga Portugal🇵🇹:
+Image sources: https://www.ligaportugal.pt/competition/618/liga-portugal-betclic/round/20242025?tab=stats&stat=players&type=142
+Data sources: https://worldfantasysoccer.com/season/20030
+
 
