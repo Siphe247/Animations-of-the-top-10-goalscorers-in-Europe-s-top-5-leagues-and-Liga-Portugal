@@ -19,6 +19,9 @@ The top 5 leagues are:
 
 3. Ligue 1🇫🇷
 
+[Image sources](https://ligue1.fr/competitions/ligue1mcdonalds?tab=standings&ranking=scorers)
+[Data sources](https://worldfantasysoccer.com/season/20042)
+
 4. Serie A🇮🇹
 
 5. Bundesliga🇩🇪
