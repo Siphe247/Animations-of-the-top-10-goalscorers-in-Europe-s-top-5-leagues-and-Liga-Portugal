@@ -19,18 +19,23 @@ The top 5 leagues are:
 
 3. Ligue 1🇫🇷
 
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ed5bb167e1eea8577359e8305939d469b77b6ca1/Ligue%201%202024-25%20Top%20Scorers.png)
+
 [Image sources](https://ligue1.fr/competitions/ligue1mcdonalds?tab=standings&ranking=scorers)
 
 [Data sources](https://worldfantasysoccer.com/season/20042)
 
 4. Serie A🇮🇹
 
+
 5. Bundesliga🇩🇪
 
+[Image sources](https://www.bundesliga.com/en/bundesliga/stats/players/goals#stats)
+
+[Data_sources](https://worldfantasysoccer.com/season/20046)
 
 
 6. Liga Portugal🇵🇹:
-
 
 ![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ebc6fb305724d9ab5fc378e50456759cc0f2ff11/Liga%20Portugal/Liga%20Portugal%202024-25%20Top%20Scorers.png)
 
