@@ -17,6 +17,10 @@ The top 5 leagues are:
 
 2. La Liga🇪🇸
 
+[Image sources](https://football.fandom.com/wiki/Special:Search?query=raphinha&scope=internal&contentType=&ns%5B0%5D=6)
+
+[Data sources](https://worldfantasysoccer.com/season/20045)
+
 3. Ligue 1🇫🇷
 
 ![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ed5bb167e1eea8577359e8305939d469b77b6ca1/Ligue%201%202024-25%20Top%20Scorers.png)
