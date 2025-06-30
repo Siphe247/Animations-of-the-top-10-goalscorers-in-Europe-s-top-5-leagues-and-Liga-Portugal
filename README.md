@@ -30,6 +30,8 @@ The top 5 leagues are:
 
 5. Bundesliga🇩🇪
 
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/6e66f8c373413e8bf008df016e89cf47d360b448/Bundesliga/Bundesliga%202024-25%20Top%20Scorers.png)
+
 [Image sources](https://www.bundesliga.com/en/bundesliga/stats/players/goals#stats)
 
 [Data_sources](https://worldfantasysoccer.com/season/20046)
