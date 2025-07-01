@@ -33,6 +33,9 @@ The top 5 leagues are:
 
 4. Serie A🇮🇹
 
+[Image sources](https://www.legaseriea.it/en)
+
+[Data sources](https://worldfantasysoccer.com/season/20043)
 
 5. Bundesliga🇩🇪
 
