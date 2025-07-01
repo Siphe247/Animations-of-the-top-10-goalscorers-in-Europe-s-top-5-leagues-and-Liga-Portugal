@@ -15,6 +15,8 @@ The top 5 leagues are:
 
 [Data sources](https://fantasy.premierleague.com/transfers)
 
+------------
+
 2. La Liga🇪🇸
 
 ![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/f39d09135d8690af5199de110ab64c16fbb71382/La%20Liga/La%20Liga%202024-25%20Top%20Scorers.png)
@@ -22,6 +24,8 @@ The top 5 leagues are:
 [Image sources](https://football.fandom.com/wiki/Special:Search?query=raphinha&scope=internal&contentType=&ns%5B0%5D=6)
 
 [Data sources](https://worldfantasysoccer.com/season/20045)
+
+----------
 
 3. Ligue 1🇫🇷
 
@@ -31,11 +35,15 @@ The top 5 leagues are:
 
 [Data sources](https://worldfantasysoccer.com/season/20042)
 
+----------
+
 4. Serie A🇮🇹
 
 [Image sources](https://www.legaseriea.it/en)
 
 [Data sources](https://worldfantasysoccer.com/season/20043)
+
+----------
 
 5. Bundesliga🇩🇪
 
@@ -45,6 +53,7 @@ The top 5 leagues are:
 
 [Data_sources](https://worldfantasysoccer.com/season/20046)
 
+----------
 
 6. Liga Portugal🇵🇹:
 
