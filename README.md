@@ -17,6 +17,8 @@ The top 5 leagues are:
 
 2. La Liga🇪🇸
 
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/f39d09135d8690af5199de110ab64c16fbb71382/La%20Liga/La%20Liga%202024-25%20Top%20Scorers.png)
+
 [Image sources](https://football.fandom.com/wiki/Special:Search?query=raphinha&scope=internal&contentType=&ns%5B0%5D=6)
 
 [Data sources](https://worldfantasysoccer.com/season/20045)
