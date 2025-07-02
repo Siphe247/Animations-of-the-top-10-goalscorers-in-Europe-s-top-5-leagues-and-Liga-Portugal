@@ -94,7 +94,7 @@ def update(frame):
         
         # Club badge to the left
         if player in badge_images:
-            imagebox = OffsetImage(badge_images[player], zoom=0.05)
+            imagebox = OffsetImage(badge_images[player], zoom=0.08)
             ab = AnnotationBbox(imagebox, (gameweek_data.min() - 4, y), 
                                frameon=False, box_alignment=(0.5, 0.5))
             ax.add_artist(ab)
