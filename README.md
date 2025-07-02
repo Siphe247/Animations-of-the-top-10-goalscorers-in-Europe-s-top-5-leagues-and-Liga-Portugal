@@ -29,7 +29,7 @@ The top 5 leagues are:
 
 3. Ligue 1🇫🇷
 
-![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/49a4f2258306f934aa3ea47da113537af701f9bf/Ligue%201/Ligue%201%202024-25%20Top%20Scorers.png)
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/edaae27934de71ac2045006db2affc079931a84c/Ligue%201/Ligue%201%202024-25%20Top%20Scorers.png)
 
 [Image sources](https://ligue1.fr/competitions/ligue1mcdonalds?tab=standings&ranking=scorers)
 
