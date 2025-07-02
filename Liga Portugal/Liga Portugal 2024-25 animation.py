@@ -17,7 +17,7 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
 #Player colour mapping
 player_colours={
-    'Viktor Gyokeres': '#006E07',
+    'Viktor Gyökeres': '#006E07',
     'Vangelis Pavlidis': '#DA0202',
     'Samuel Aghehowa': '#0B0BE4',
     'Clayton': '#00870B',
@@ -30,7 +30,7 @@ player_colours={
 }
 
 club_badges={
-    'Viktor Gyokeres': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal club badges/Sporting Lisbon_logo.png',
+    'Viktor Gyökeres': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal club badges/Sporting Lisbon_logo.png',
     'Vangelis Pavlidis': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal club badges/SL Benfica_logo.png',
     'Samuel Aghehowa': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal club badges/FC Porto_logo.png',
     'Clayton': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal club badges/Rio Ave_logo.png',
@@ -43,7 +43,7 @@ club_badges={
 }
 
 player_faces={
-    'Viktor Gyokeres': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal Top scorer images/Viktor Gyokeres_lp.png',
+    'Viktor Gyökeres': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal Top scorer images/Viktor Gyokeres_lp.png',
     'Vangelis Pavlidis': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal Top scorer images/Vangelis Pavlidis_lp.png',
     'Samuel Aghehowa': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal Top scorer images/Samuel Aghehowa_lp.png',
     'Clayton': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Liga Portugal/Liga Portugal Top scorer images/Clayton_lp.png',
