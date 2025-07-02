@@ -26,7 +26,7 @@ player_colours = {
     'Alexander Isak': '#241f20',
     'Chris Wood': '#e53233',
     'Matheus Cunha': '#fdb913',
-    'Jorgen Strand-Larsen': '#fdb913',
+    'Jørgen Strand-Larsen': '#fdb913',
 }
 
 club_badges = {
@@ -39,7 +39,7 @@ club_badges = {
     'Alexander Isak': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League club badges/newcastle utd_logo.png',
     'Chris Wood': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League club badges/nottingham forest_logo.png',
     'Matheus Cunha': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League club badges/wolves_logo.png',
-    'Jorgen Strand-Larsen': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League club badges/wolves2_logo.png'
+    'Jørgen Strand-Larsen': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League club badges/wolves2_logo.png'
 }
 
 player_faces = {
@@ -49,7 +49,7 @@ player_faces = {
     'Bryan Mbeumo': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Mbeumo_pl.png',
     'Cole Palmer': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Palmer_pl.png',
     'Mohamed Salah': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Salah_pl.png',
-    'Jorgen Strand-Larsen': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Strand Larsen_pl.png',
+    'Jørgen Strand-Larsen': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Strand Larsen_pl.png',
     'Ollie Watkins': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Watkins_pl.png',
     'Yoane Wissa': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Wissa_pl.png',
     'Chris Wood': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Premier League/Premier League top scorer images/Wood_pl.png'
