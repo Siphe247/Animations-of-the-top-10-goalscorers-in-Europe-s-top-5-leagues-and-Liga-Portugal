@@ -9,7 +9,7 @@ The top 5 leagues are:
 -----------------------------
 1. Premier League🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
-![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ebc6fb305724d9ab5fc378e50456759cc0f2ff11/English%20Premier%20League/Premier%20League%202024-25%20Top%20Scorers.png)
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/caf86c5a424ab40adc2203c2fa89393bd8655784/English%20Premier%20League/Premier%20League%202024-25%20Top%20Scorers.png)
 
 [Image sources](https://fantasy.premierleague.com/transfers)
 
