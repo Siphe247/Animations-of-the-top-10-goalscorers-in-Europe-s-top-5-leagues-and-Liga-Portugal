@@ -17,7 +17,7 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 
 #Player colour mapping
 player_colours={
-    'Ousmane Dembele': '#1300B9',
+    'Ousmane Dembélé': '#1300B9',
     'Mason Greenwood': '#36FFFC',
     'Arnaud Kalimuendo': '#FA1010',
     'Jonathan David': '#FE1515',
@@ -30,7 +30,7 @@ player_colours={
 }
 
 club_badges={
-    'Ousmane Dembele': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 club badges/PSG_logo.png',
+    'Ousmane Dembélé': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 club badges/PSG_logo.png',
     'Mason Greenwood': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 club badges/OM_logo.png',
     'Arnaud Kalimuendo': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 club badges/Rennes_logo.png',
     'Jonathan David': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 club badges/Lille_logo.png',
@@ -43,7 +43,7 @@ club_badges={
 }
 
 player_faces={
-    'Ousmane Dembele': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 top scorers/Dembele_l1.png',
+    'Ousmane Dembélé': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 top scorers/Dembele_l1.png',
     'Mason Greenwood': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 top scorers/Greenwood_l1.png',
     'Arnaud Kalimuendo': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 top scorers/Kalimuendo_l1.png',
     'Jonathan David': '/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Ligue 1/Ligue 1 top scorers/David_l1.png',
