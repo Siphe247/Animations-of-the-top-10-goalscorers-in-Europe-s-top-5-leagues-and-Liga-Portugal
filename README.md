@@ -1,4 +1,4 @@
-This project aims to display an animation of the top 10 goalscorers in each of Europe's top 5 football leagues🇪🇺 and Liga Portugal🇵🇹.
+This project aims to display an animation of the top 10 goalscorers in each of Europe's top 5 football leagues🇪🇺 and Liga Portugal🇵🇹 throughout the 2024/25 season.
 
 The top 5 leagues are:
 1. Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿
