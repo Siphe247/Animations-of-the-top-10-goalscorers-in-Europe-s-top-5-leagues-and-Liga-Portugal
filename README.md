@@ -39,6 +39,8 @@ The top 5 leagues are:
 
 4. Serie A🇮🇹
 
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/4edefea1fdb875d29ce55779e568a28f5513c38d/Serie%20A/Serie%20A%202024-25%20Top%20Scorers.png)
+
 [Image sources](https://www.legaseriea.it/en)
 
 [Data sources](https://worldfantasysoccer.com/season/20043)
