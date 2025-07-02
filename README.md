@@ -29,7 +29,7 @@ The top 5 leagues are:
 
 3. Ligue 1🇫🇷
 
-![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ed5bb167e1eea8577359e8305939d469b77b6ca1/Ligue%201%202024-25%20Top%20Scorers.png)
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/49a4f2258306f934aa3ea47da113537af701f9bf/Ligue%201/Ligue%201%202024-25%20Top%20Scorers.png)
 
 [Image sources](https://ligue1.fr/competitions/ligue1mcdonalds?tab=standings&ranking=scorers)
 
@@ -59,7 +59,7 @@ The top 5 leagues are:
 
 6. Liga Portugal🇵🇹:
 
-![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/ebc6fb305724d9ab5fc378e50456759cc0f2ff11/Liga%20Portugal/Liga%20Portugal%202024-25%20Top%20Scorers.png)
+![image_alt](https://github.com/Siphe247/Animations-of-the-top-10-goalscorers-in-Europe-s-top-5-leagues-and-Liga-Portugal/blob/49a4f2258306f934aa3ea47da113537af701f9bf/Liga%20Portugal/Liga%20Portugal%202024-25%20Top%20Scorers.png)
 
 [Image sources](https://www.ligaportugal.pt/competition/618/liga-portugal-betclic/round/20242025?tab=stats&stat=players&type=142)
 
