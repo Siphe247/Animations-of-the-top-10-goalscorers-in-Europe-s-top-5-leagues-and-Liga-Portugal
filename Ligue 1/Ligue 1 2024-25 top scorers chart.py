@@ -87,7 +87,7 @@ for i, player in enumerate(final_goals.index):
     if player in player_faces:
         try:
             face_img = mpimg.imread(player_faces[player])
-            imagebox = OffsetImage(face_img, zoom=0.08)
+            imagebox = OffsetImage(face_img, zoom=0.07)
             ab = AnnotationBbox(imagebox, (final_goals[player]+0.7, y), frameon=False, box_alignment=(0.5,0.5))
             ax.add_artist(ab)
         except Exception as e:
