@@ -65,4 +65,5 @@ The top 5 leagues are:
 
 [Data sources](https://worldfantasysoccer.com/season/20030)
 
-
+Check out my article on Medium.com:
+🔗: https://medium.com/@siphe247/breaking-down-europes-leading-goal-scorers-premier-league-to-liga-portugal-2024-25-4c134639014c
