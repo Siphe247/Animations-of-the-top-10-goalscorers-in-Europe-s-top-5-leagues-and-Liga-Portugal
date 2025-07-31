@@ -129,6 +129,16 @@ def update(frame):
 # Create animation
 ani = animation.FuncAnimation(fig, update, frames=len(df), interval=500, blit=False)
 
+#Add credits 
+CREDIT_1="Data: World Fantasy Soccer" 
+CREDIT_2="Viz: Siphe247"
+
+plt.figtext(
+    0.99, 0.01, f"{CREDIT_1}\n{CREDIT_2}", fontsize=9,
+    color="#000000",
+    ha="right"
+)
+
 # Save as GIF video
 writer = animation.FFMpegWriter(fps=2, metadata=dict(artist='Me'), bitrate=1800)
 ani.save('/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Bundesliga_2024-25_Top_Scorers.gif',

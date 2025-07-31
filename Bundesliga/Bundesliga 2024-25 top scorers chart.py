@@ -111,6 +111,17 @@ ax.set_yticklabels(final_goals.index, fontsize=13)
 ax.tick_params(axis='y', which='both', direction='out', pad=28)
 ax.grid(axis='x', linestyle='--', alpha=0.5)
 plt.subplots_adjust(left=0.5, right=0.95, top=0.9, bottom=0.15)
+
+#Add credits 
+CREDIT_1="Data: World Fantasy Soccer" 
+CREDIT_2="Viz: Siphe247"
+
+plt.figtext(
+    0.99, 0.01, f"{CREDIT_1}\n{CREDIT_2}", fontsize=9,
+    color="#000000",
+    ha="right"
+)
+
 plt.savefig('/Users/siphuvuyomngxunyeni/Downloads/Football Analytics/Bundesliga 2024-25 Top Scorers.png', dpi=300, bbox_inches='tight')
 plt.tight_layout()
 plt.show()
